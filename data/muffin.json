@@ -1,6 +1,6 @@
 {
   "templates": [
-    "hands {user} a {muffin} muffin."
+    "hands {user} a vegan {muffin} muffin."
   ],
   "parts": {
     "muffin": [

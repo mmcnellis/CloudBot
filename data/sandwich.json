@@ -19,20 +19,16 @@
       "a delicious",
       "an awesome",
       "an excellent",
-      "a beautifully-made"
+      "a beautifully-made",
+      "a stinky"
     ],
     "meat": [
-      "ham",
-      "salami",
-      "steak",
-      "meatball",
-      "tuna",
-      "pork",
-      "chicken",
-      "roast beef",
-      "corned beef",
-      "pastrami",
-      "turkey"
+      "meatless meatball",
+      "jackfruit pork",
+      "chick'n",
+      "roast colyflower",
+      "turk'y",
+      "tofu"
     ],
     "type": [
       "roll",
@@ -51,11 +47,10 @@
     ],
     "sauce":[
       "sweet onion sauce",
-      "honey mustard sauce",
-      "mayo",
+      "maple mustard sauce",
+      "just mayo",
       "sweet chili sauce",
       "italian sauce",
-      "ranch dressing",
       "barbecue sauce"
     ]
   }

@@ -1,6 +1,6 @@
 {
   "templates": [
-    "hands {user} a {size} {flavor} ice cream with {topping} on top, served {served}."
+    "hands {user} a {size} vegan {flavor} ice cream with {topping} on top, served {served}."
   ],
   "parts": {
     "size": [

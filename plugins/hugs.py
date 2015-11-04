@@ -56,7 +56,7 @@ def hug(text, nick, action, chan, db, conn):
                {'chan': chan, 'hugger': nick.lower(), 'hugged': target.lower(), 'score': score})
     db.commit()
 
-    action("hugs " + target)
+    action("leers as " + nick + " hugs " + target)
 
 
 @hook.command("hugged")

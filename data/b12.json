@@ -1,0 +1,20 @@
+{
+  "templates": [
+    "gives {user} a {size} {container} of b12"
+  ],
+  "parts": {
+    "size": [
+      "footlong",
+      "medium",
+      "snoopworthy",
+      "pathetically-sized",
+      "one ounce",
+      "regular-sized"
+    ],
+    "container": [
+        "bottle",
+        "anal injection",
+        "nasal spray"
+    ]
+  }
+}

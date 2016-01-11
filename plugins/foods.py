@@ -147,7 +147,7 @@ def cake(text, action):
     size = random.choice(['small', 'little', 'mid-sized', 'medium-sized', 'large', 'gigantic'])
     flavor = random.choice(['tasty', 'delectable', 'delicious', 'yummy', 'toothsome', 'scrumptious', 'luscious'])
     method = random.choice(['makes', 'gives', 'gets', 'buys'])
-    side_dish = random.choice(['glass of chocolate milk', 'bowl of ice cream', 'jar of cookies',
+    side_dish = random.choice(['glass of chocolate almond milk', 'bowl of ice cream', 'jar of cookies',
                                'side of chocolate sauce'])
 
     action("{} {} a {} {} {} cake and serves it with a small {}!".format(method, user, flavor, size, cake_type,
@@ -167,7 +167,7 @@ def cookie(text, action):
     size = random.choice(['small', 'little', 'medium-sized', 'large', 'gigantic'])
     flavor = random.choice(['tasty', 'delectable', 'delicious', 'yummy', 'toothsome', 'scrumptious', 'luscious'])
     method = random.choice(['makes', 'gives', 'gets', 'buys'])
-    side_dish = random.choice(['glass of milk', 'bowl of ice cream', 'bowl of chocolate sauce'])
+    side_dish = random.choice(['glass of almond milk', 'bowl of ice cream', 'bowl of chocolate sauce'])
 
     action("{} {} a {} {} {} cookie and serves it with a {}!".format(method, user, flavor, size, cookie_type,
                                                                      side_dish))

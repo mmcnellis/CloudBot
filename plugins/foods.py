@@ -140,7 +140,7 @@ def potato(text, action):
     size = random.choice(['small', 'little', 'mid-sized', 'medium-sized', 'large', 'gigantic'])
     flavor = random.choice(['tasty', 'delectable', 'delicious', 'yummy', 'toothsome', 'scrumptious', 'luscious'])
     method = random.choice(['bakes', 'fries', 'boils', 'roasts'])
-    side_dish = random.choice(['side salad', 'dollop of sour cream', 'piece of chicken', 'bowl of shredded bacon'])
+    side_dish = random.choice(['side salad', 'dollop of sour cashew cream', 'piece of chick\'n', 'bowl of shredded tofu'])
 
     action("{} a {} {} {} potato for {} and serves it with a small {}!".format(method, flavor, size, potato_type, user,
                                                                                side_dish))

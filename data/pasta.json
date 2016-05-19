@@ -1,6 +1,6 @@
 {
   "templates": [
-    "hands {user} a {portion} of {pasta} with {sauce}!"
+    "hands {user} a {portion} of vegan {pasta} with {sauce}!"
   ],
   "parts": {
     "portion": [
@@ -52,37 +52,25 @@
       "ziti"
 	  ],
     "sauce": [
-      "alfredo sauce with chicken and bacon",
       "Bolognese sauce",
-      "olive oil based sauce with clams, garlic and basil",
       "garlic and olive oil ",
       "tomato sauce with onion, garlic, green pepper and oregano",
-      "cream sauce with salmon and capers ",
-      "cream sauce with portobello mushrooms",
+      "cashew cream sauce with salmon and capers ",
+      "cashew cream sauce with portobello mushrooms",
       "meatballs in tomato sauce with basil and onions",
-      "lemon garlic butter sauce",
       "truffle oil and garlic ",
-      "beef cheek sauce with a bit of parsley",
-      "white wine garlic sauce with chicken",
-      "shredded beef ragu sauce",
-      "spicy tomato and mozzarella sauce",
-      "osso buco sauce",
+      "white wine garlic sauce with chick'n",
       "chunky marinara sauce",
-      "shrimp and cream sauce",
-      "emmental cheese sauce with vegetables",
-      "curry pasta sauce with shrimp and chicken ",
       "stroganoff sauce",
       "black truffle sauce",
       "pasta salad sauce with salt, vinegar, pepper and olive oil with provolone",
       "puttanesca sauce",
       "pesto rosso",
       "pistachio pesto",
-      "pine nuts and cheese pesto",
+      "pine nut pesto",
       "coriander pesto",
       "walnut pesto",
       "classic basil pesto",
-      "anchovy with garlic sauce",
-      "chorizo and tomato sauce"
     ]
   }
 }

@@ -20,7 +20,7 @@
       "half off at the market",
       "Deli's special"
     ],
-    
+
     "type": [
       "slice",
       "serving",
@@ -38,11 +38,12 @@
       "warehouse",
       "freight car"
     ],
-    
+
     "cheese": [
       "almond cheese",
       "cashew cheese",
-      "nooch"
+      "nooch",
+      "Daiya cheese"
    ]
   }
 }

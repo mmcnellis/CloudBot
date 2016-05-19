@@ -1,6 +1,6 @@
 {
   "templates": [
-    "hands {user} a {portion} of {chocolate}"
+    "hands {user} a {portion} of carefully veganized {chocolate}"
   ],
   "parts": {
     "portion": [

@@ -44,6 +44,13 @@ def dogecoin():
     return crypto_command("doge")
 
 
+@hook.command("ethereum", "eth", autohelp=False)
+def ethereum():
+    """ -- Returns current ethereum value """
+    # alias
+    return crypto_command("eth")
+
+
 # main command
 @hook.command("crypto", "cryptocurrency")
 def crypto_command(text):
@@ -66,13 +73,16 @@ def crypto_command(text):
         # in these cases we just return a "not found" message
         return "Currency not found."
 
-    change = float(data['change'])
-    if change > 0:
-        change_str = "\x033 {}%\x0f".format(change)
-    elif change < 0:
-        change_str = "\x035 {}%\x0f".format(change)
-    else:
-        change_str = "{}%".format(change)
+    try:
+        change = float(data['change'])
+        if change > 0:
+            change_str = "\x033 {}%\x0f".format(change)
+        elif change < 0:
+            change_str = "\x035 {}%\x0f".format(change)
+        else:
+            change_str = "{}%".format(change)
+    except ValueError:
+        change_str = "\x035 ?%\x0f"
 
     return "{} // \x0307${:,.2f}\x0f USD - \x0307€{:,.2f}\x0f EUR - {:,.7f} BTC // {} change".format(data['symbol'].upper(),
                                                                             float(data['price']['usd']),

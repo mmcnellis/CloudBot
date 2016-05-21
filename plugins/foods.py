@@ -68,7 +68,7 @@ def load_foods(bot):
     global sandwich_data, taco_data, coffee_data, noodles_data, muffin_data, \
         tea_data, keto_data, beer_data, cheese_data, pancake_data, chicken_data, \
         icecream_data, brekkie_data, doobie_data, pizza_data, chocolate_data, pasta_data, \
-        nugget_data, b12_data
+        nugget_data, b12_data, bro_data
 
     with codecs.open(os.path.join(bot.data_dir, "sandwich.json"), encoding="utf-8") as f:
         sandwich_data = json.load(f)
@@ -117,6 +117,9 @@ def load_foods(bot):
 
     with codecs.open(os.path.join(bot.data_dir, "b12.json"), encoding="utf-8") as f:
         b12_data = json.load(f)
+
+    with codecs.open(os.path.join(bot.data_dir, "bro.json"), encoding="utf-8") as f:
+        bro_data = json.load(f)
 
     with codecs.open(os.path.join(bot.data_dir, "pizza.json"), encoding="utf-8") as f:
         pizza_data = json.load(f)
@@ -400,7 +403,7 @@ def doobie(text, action):
 
 @asyncio.coroutine
 @hook.command("b12")
-def doobie(text, action):
+def b12(text, action):
     """<user> - pass <user> some b12"""
     user = text.strip()
 
@@ -408,6 +411,20 @@ def doobie(text, action):
         return "That one is already dead."
 
     generator = textgen.TextGenerator(b12_data["templates"], b12_data["parts"], variables={"user": user})
+
+    # act out the message
+    action(generator.generate_string())
+
+@asyncio.coroutine
+@hook.command("bro")
+def bro(text, action):
+    """<user> - pass <user> some bronouns"""
+    user = text.strip()
+
+    if not is_valid(user):
+        return "That guy doesn't even lift."
+
+    generator = textgen.TextGenerator(bro_data["templates"], bro_data["parts"], variables={"user": user})
 
     # act out the message
     action(generator.generate_string())

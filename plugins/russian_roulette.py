@@ -1,3 +1,4 @@
+import time
 import random
 import re
 
@@ -5,6 +6,8 @@ from cloudbot import hook
 
 nick_re = re.compile("^[A-Za-z0-9_|.\-\]\[\{\}]*$", re.I)
 db_ready = []
+
+last_shot = {}
 
 
 def db_init(db, conn_name):
@@ -36,7 +39,13 @@ def russian_roulette(nick, chan, db, conn):
 
     score = int(data[1]) if data else 0
     if data and int(data[0]) == 1:
-        return "Been there, did that, blew your brains out. Sorry!"
+        return "Been there, done that, blew your brains out. Sorry!"
+
+    now = time.time()
+    if last_shot.get(nick.lower(), 0) > (now - 300):
+        return "There's a 5 minute cooldown on being an idiot."
+    else:
+        last_shot[nick.lower()] = now
 
     if random.randint(1, 6) == 6:
         db.execute("insert or replace into rusroul(chan, nick, dead, score) values (:chan, :nick, :dead, :score)",
@@ -53,9 +62,13 @@ def russian_roulette(nick, chan, db, conn):
 
 
 @hook.command("rrscore", "rrs", autohelp=False)
-def russian_score(text, chan, db, conn):
+def russian_score(text, nick, chan, db, conn):
     """<nick> - Check <nick>'s russian roulette score"""
     targett = text.strip()
+
+    if not targett:
+        targett = nick
+
     target = targett.lower()
 
     if is_valid(target):
@@ -73,9 +86,13 @@ def russian_score(text, chan, db, conn):
 
 
 @hook.command("unshoot",  permissions=["op"])
-def unshoot(text, chan, db, conn):
+def unshoot(nick, text, chan, db, conn):
     """<nick> - reset score and death in Russian Roulette"""
     targett = text.strip()
+
+    if not targett:
+        targett = nick
+
     target = targett.lower()
 
     if is_valid(target):

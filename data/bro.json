@@ -1,29 +1,31 @@
 {
-  "templates": [
-    "gives {user} a {size} {container} of {bro}"
-  ],
-  "parts": {
-    "size": [
-      "footlong",
-      "medium",
-      "snoopworthy",
-      "pathetically-sized",
-      "one ounce",
-      "regular-sized",
-      "BRO-sized"
+    "templates": [
+        "gives {user} a {size} {container} of {bro}"
     ],
-    "container": [
-        "bottle",
-        "anal injection",
-        "nasal spray",
-        "shaker bottle",
-        "BROntainer"
-    ],
-    "bro": [
-        "BROcolli",
-        "BROtein",
-        "BROconut",
-        "BROscience"
-    ]
-  }
+    "parts": {
+        "size": [
+            "footlong",
+            "medium",
+            "snoopworthy",
+            "pathetically-sized",
+            "one ounce",
+            "regular-sized",
+            "BRO-sized"
+        ],
+        "container": [
+            "bottle",
+            "anal injection",
+            "nasal spray",
+            "shaker bottle",
+            "BROntainer",
+            "plate",
+            "BROwl"
+        ],
+        "bro": [
+            "BROccolli",
+            "BROtein",
+            "BROconut",
+            "BROscience"
+        ]
+    }
 }

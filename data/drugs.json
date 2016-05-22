@@ -1,0 +1,56 @@
+{
+    "templates": [
+        "gives {user} {size} of {drug}"
+    ],
+    "parts": {
+        "size": [
+            "an overdose",
+            "a week's worth",
+            "a load",
+            "a gram",
+            "an ounce",
+            "a bag",
+            "a line",
+            "a micro-dose",
+            "a dose"
+        ],
+        "drug": [
+            "alcohol",
+            "MDMA",
+            "XTC",
+            "shrooms",
+            "LSD",
+            "weed",
+            "opium",
+            "speed",
+            "cocaine",
+            "heroin",
+            "cannabis",
+            "modafinil",
+            "methylphenidate",
+            "adderall",
+            "dexamphetamine",
+            "ketamine",
+            "GHB",
+            "khat",
+            "krokodil",
+            "nicotine",
+            "Xanax",
+            "meth",
+            "caffeine",
+            "morphine",
+            "PCP",
+            "kava",
+            "DMT",
+            "DXM",
+            "poppers",
+            "MXE",
+            "ambien",
+            "reality",
+            "veganism",
+            "life",
+            "gary",
+            "nooch"
+        ]
+    }
+}

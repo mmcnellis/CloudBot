@@ -68,7 +68,7 @@ def load_foods(bot):
     global sandwich_data, taco_data, coffee_data, noodles_data, muffin_data, \
         tea_data, keto_data, beer_data, cheese_data, pancake_data, chicken_data, \
         icecream_data, brekkie_data, doobie_data, pizza_data, chocolate_data, pasta_data, \
-        nugget_data, b12_data, bro_data
+        nugget_data, b12_data, bro_data, drug_data
 
     with codecs.open(os.path.join(bot.data_dir, "sandwich.json"), encoding="utf-8") as f:
         sandwich_data = json.load(f)
@@ -120,6 +120,9 @@ def load_foods(bot):
 
     with codecs.open(os.path.join(bot.data_dir, "bro.json"), encoding="utf-8") as f:
         bro_data = json.load(f)
+
+    with codecs.open(os.path.join(bot.data_dir, "drugs.json"), encoding="utf-8") as f:
+        drug_data = json.load(f)
 
     with codecs.open(os.path.join(bot.data_dir, "pizza.json"), encoding="utf-8") as f:
         pizza_data = json.load(f)
@@ -425,6 +428,20 @@ def bro(text, action):
         return "That guy doesn't even lift."
 
     generator = textgen.TextGenerator(bro_data["templates"], bro_data["parts"], variables={"user": user})
+
+    # act out the message
+    action(generator.generate_string())
+
+@asyncio.coroutine
+@hook.command("drug", "deal")
+def drug(text, action):
+    """<user> - pass <user> some drugs"""
+    user = text.strip()
+
+    if not is_valid(user):
+        return "That would be irresponsible."
+
+    generator = textgen.TextGenerator(drug_data["templates"], drug_data["parts"], variables={"user": user})
 
     # act out the message
     action(generator.generate_string())

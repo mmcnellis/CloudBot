@@ -10,7 +10,8 @@
             "pathetically-sized",
             "one ounce",
             "regular-sized",
-            "BRO-sized"
+            "BRO-sized",
+            "BROverfull"
         ],
         "container": [
             "bottle",
@@ -25,7 +26,12 @@
             "BROccolli",
             "BROtein",
             "BROconut",
-            "BROscience"
+            "BROscience",
+            "BROwnies",
+            "BROzac",
+            "BROgesterone",
+            "BROpium",
+            "BROranges"
         ]
     }
 }

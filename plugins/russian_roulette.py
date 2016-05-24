@@ -51,14 +51,14 @@ def russian_roulette(nick, chan, db, conn):
         db.execute("insert or replace into rusroul(chan, nick, dead, score) values (:chan, :nick, :dead, :score)",
                {'chan': chan, 'nick': nick.lower(), 'dead': 1, 'score': score})
         db.commit()
-        return "Bang! " + nick + " is ded."
+        return "Bang! " + nick + " is ded, having tempted fate a total of " + str(score) + " times."
 
     score = int(data[1]) + 1 if data else 1
     db.execute("insert or replace into rusroul(chan, nick, dead, score) values (:chan, :nick, :dead, :score)",
                {'chan': chan, 'nick': nick.lower(), 'dead': 0, 'score': score})
     db.commit()
 
-    return "*Click* " + nick + " lives to die another day."
+    return "*Click* " + nick + " lives to die another day, having survived a total of " + str(score) + " games."
 
 
 @hook.command("rrscore", "rrs", autohelp=False)

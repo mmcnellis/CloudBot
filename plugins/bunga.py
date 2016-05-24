@@ -13,3 +13,7 @@ def grr():
 def bunga():
     """bunga bunga bunga!"""
     return random.choice(("grr", "whaaa", ":o"))
+
+@hook.command("hostmask", autohelp=False)
+def host(event):
+    return event.mask

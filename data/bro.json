@@ -11,7 +11,8 @@
             "one ounce",
             "regular-sized",
             "BRO-sized",
-            "BROverfull"
+            "BROverfull",
+            "BROken"
         ],
         "container": [
             "bottle",
@@ -31,7 +32,9 @@
             "BROzac",
             "BROgesterone",
             "BROpium",
-            "BROranges"
+            "BROranges",
+            "BROrrito",
+            "BROsalad"
         ]
     }
 }

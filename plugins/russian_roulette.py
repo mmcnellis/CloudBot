@@ -8,10 +8,10 @@ nick_re = re.compile("^[A-Za-z0-9_|.\-\]\[\{\}]*$", re.I)
 db_ready = []
 
 last_shot = {}
-
+last_snack = {}
 
 def db_init(db, conn_name):
-    """Check to see if the DB has the hugs table. Connection name is for caching the result per connection.
+    """Check to see if the DB has the rusroul table. Connection name is for caching the result per connection.
     :type db: sqlalchemy.orm.Session
     """
     global db_ready
@@ -115,3 +115,68 @@ def rrtop(chan, db, conn):
         return "The best player is " + str(items[0][0]) + ", having survived " + str(items[0][1]) + " games of Russian Roulette."
 
     return "!"
+
+
+def db_ddinit(db, conn_name):
+    """Check to see if the DB has the dondang table. Connection name is for caching the result per connection.
+    :type db: sqlalchemy.orm.Session
+    """
+    global db_ready
+    if db_ready.count(conn_name) < 1:
+        db.execute(
+            "create table if not exists dondang(chan, nick, omni INTEGER DEFAULT 0, score INTEGER DEFAULT 0, primary key(chan, nick))")
+        db.commit()
+        db_ready.append(conn_name)
+
+
+@hook.command("donutdanger", "dd", autohelp=False)
+def donut_danger(nick, chan, db, conn):
+    """- Play Donut Danger"""
+    db_ddinit(db, conn.name)
+    data = db.execute("select omni, score from dondang where chan = :chan and nick = :nick",
+                      {'chan': chan, 'nick': nick.lower()}).fetchone()
+
+    score = int(data[1]) if data else 0
+    
+    now = time.time()
+    if last_snack.get(nick.lower(), 0) > (now - 300):
+        return "There's a 5 minute cooldown on stuffing your face."
+    else:
+        last_snack[nick.lower()] = now
+
+    if random.randint(1, 6) == 6:
+        db.execute("insert or replace into dondang(chan, nick, omni, score) values (:chan, :nick, :omni, :score)",
+               {'chan': chan, 'nick': nick.lower(), 'omni': 1, 'score': score})
+        db.commit()
+        return "SCUM! " + nick + " ate an omnidonut, having stuffed their face a total of " + str(score) + " times."
+
+    score = int(data[1]) + 1 if data else 1
+    db.execute("insert or replace into dondang(chan, nick, omni, score) values (:chan, :nick, :omni, :score)",
+               {'chan': chan, 'nick': nick.lower(), 'omni': 0, 'score': score})
+    db.commit()
+
+    return "YUM! " + nick + " enjoys a " + str(score) + "th harmless donut in a row."
+
+
+@hook.command("ddscore", "dds", autohelp=False)
+def donut_score(text, nick, chan, db, conn):
+    """<nick> - Check <nick>'s donut danger score"""
+    targett = text.strip()
+
+    if not targett:
+        targett = nick
+
+    target = targett.lower()
+
+    if is_valid(target):
+        db_ddinit(db, conn.name)
+        data = db.execute("select omni, score from dondang where chan = :chan and nick = :nick",
+                      {'chan': chan, 'nick': target}).fetchone()
+
+        if data:
+            return targett + " is " + ("omni" if int(data[0]) == 1 else "alive") + " and has survived " + \
+                   str(data[1]) + " games of Donut Danger."
+        else:
+            return targett + " has never tried a donut before. How curious."
+
+    return "come again?"

@@ -146,16 +146,16 @@ def donut_danger(nick, chan, db, conn):
 
     if random.randint(1, 6) == 6:
         db.execute("insert or replace into dondang(chan, nick, omni, score) values (:chan, :nick, :omni, :score)",
-               {'chan': chan, 'nick': nick.lower(), 'omni': 1, 'score': score})
+               {'chan': chan, 'nick': nick.lower(), 'omni': 1, 'score': 0})
         db.commit()
-        return "SCUM! " + nick + " ate an omnidonut, having stuffed their face a total of " + str(score) + " times."
+        return "SCUM! " + nick + " ate an omnidonut! (" + str(score) + " donut streak over)"
 
     score = int(data[1]) + 1 if data else 1
     db.execute("insert or replace into dondang(chan, nick, omni, score) values (:chan, :nick, :omni, :score)",
                {'chan': chan, 'nick': nick.lower(), 'omni': 0, 'score': score})
     db.commit()
 
-    return "YUM! " + nick + " enjoys a " + str(score) + "th harmless donut in a row."
+    return "YUM! " + nick + " enjoys a harmless donut. (" + str(score) + " donut streak)"
 
 
 @hook.command("ddscore", "dds", autohelp=False)
@@ -174,9 +174,19 @@ def donut_score(text, nick, chan, db, conn):
                       {'chan': chan, 'nick': target}).fetchone()
 
         if data:
-            return targett + " is " + ("omni" if int(data[0]) == 1 else "alive") + " and has survived " + \
-                   str(data[1]) + " games of Donut Danger."
+            return targett + " has been vegan for " + str(data[1]) + " donuts."
         else:
             return targett + " has never tried a donut before. How curious."
 
     return "come again?"
+
+    @hook.command("ddtop", autohelp=False)
+def ddtop(chan, db, conn):
+    """Print the 3 top Donut Danger players"""
+    db_ddinit(db, conn.name)
+    items = ""
+    items = db.execute("select nick, score from dondang where chan = :chan and omni = 0 ORDER BY score DESC ", {'chan': chan}).fetchall()
+    if items:
+        return "The best player is " + str(items[0][0]) + ", having eaten " + str(items[0][1]) + " vegan donuts in a row."
+
+    return "!"

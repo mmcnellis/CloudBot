@@ -137,7 +137,7 @@ def donut_danger(nick, chan, db, conn):
                       {'chan': chan, 'nick': nick.lower()}).fetchone()
 
     score = int(data[1]) if data else 0
-    
+
     now = time.time()
     if last_snack.get(nick.lower(), 0) > (now - 300):
         return "There's a 5 minute cooldown on stuffing your face."
@@ -180,7 +180,8 @@ def donut_score(text, nick, chan, db, conn):
 
     return "come again?"
 
-    @hook.command("ddtop", autohelp=False)
+
+@hook.command("ddtop", autohelp=False)
 def ddtop(chan, db, conn):
     """Print the 3 top Donut Danger players"""
     db_ddinit(db, conn.name)

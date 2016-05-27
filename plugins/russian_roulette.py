@@ -146,11 +146,9 @@ def donut_danger(nick, chan, db, conn):
 
     if random.randint(1, 6) == 6:
         db.execute("insert or replace into dondang(chan, nick, omni, score) values (:chan, :nick, :omni, :score)",
-               {'chan': chan, 'nick': nick.lower(), 'omni': 1, 'score': score})
+               {'chan': chan, 'nick': nick.lower(), 'omni': 1, 'score': 0})
         db.commit()
         return "SCUM! " + nick + " ate an omnidonut! (" + str(score) + " donut streak over)"
-        db.execute("insert or replace into dondang(score) values (:score)", {'score': 0})
-        db.commit()
 
     score = int(data[1]) + 1 if data else 1
     db.execute("insert or replace into dondang(chan, nick, omni, score) values (:chan, :nick, :omni, :score)",

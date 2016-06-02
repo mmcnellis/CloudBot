@@ -116,6 +116,17 @@ def rrtop(chan, db, conn):
 
     return "!"
 
+@hook.command("rrtopded", autohelp=False)
+def rrtopded(chan, db, conn):
+    """Print the top ded Russian Roulette player"""
+    db_init(db, conn.name)
+    items = ""
+    items = db.execute("select nick, score from rusroul where chan = :chan and dead = 1 ORDER BY score DESC ", {'chan': chan}).fetchall()
+    if items:
+        return "The best ded player is " + str(items[0][0]) + ", having survived " + str(items[0][1]) + " games before kicking the bucket."
+
+    return "!"
+
 
 def db_ddinit(db, conn_name):
     """Check to see if the DB has the dondang table. Connection name is for caching the result per connection.

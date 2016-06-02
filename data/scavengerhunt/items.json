@@ -1,0 +1,2156 @@
+{
+ "2": {
+   "objective":"A target in Target",
+   "info":"Not the target in the logo",
+   "points":1,
+   "type":0
+ },
+ "3": {
+   "objective":"A large stained glass window in a church or cathedral ",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "4": {
+   "objective":"A \"buy one, get one free\" coupon",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "5": {
+   "objective":"Something pomegranate flavored ",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "6": {
+   "objective":"A book with a human and a non-human animal on the cover",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "7": {
+   "objective":"Poison oak, ivy, or sumac",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "8": {
+   "objective":"A coexist sticker",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "9": {
+   "objective":"A \"you are here\" indicator on a map",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "10": {
+   "objective":"Purple mascara",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "11": {
+   "objective":"Paint spill on the street or sidewalk",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "12": {
+   "objective":"A graffiti with graffiti",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "13": {
+   "objective":"A stack of tires at least 5 high",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "14": {
+   "objective":"Two of the same food products stuck together",
+   "info":"Like two pieces of shredded wheat cereal that were not fully cut apart",
+   "points":1,
+   "type":0
+ },
+ "15": {
+   "objective":"A lake",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "16": {
+   "objective":"A juice drink with \"juice\" in the name that contains less than 2% juice",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "17": {
+   "objective":"Something with flames painted on it",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "18": {
+   "objective":"Tubular wind chime",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "19": {
+   "objective":"A train with graffiti",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "20": {
+   "objective":"A tub of Ben & Jerry's non-dairy ice cream",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "21": {
+   "objective":"A wall pencil sharpener",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "22": {
+   "objective":"A cookie cutter that's not a circle, square, star, christmas tree or heart",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "23": {
+   "objective":"A car parked illegally",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "24": {
+   "objective":"A car without a trailer parked in two or more spaces",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "25": {
+   "objective":"A \"do not duplicate\" key",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "26": {
+   "objective":"A bird on top of a car",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "27": {
+   "objective":"The number 42",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "28": {
+   "objective":"A bookmark with religious verses on it",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "29": {
+   "objective":"A copper tea pot",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "30": {
+   "objective":"An ant hill",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "31": {
+   "objective":"A leaf that is longer than your forearm",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "32": {
+   "objective":"A sign cautioning against wildlife ",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "33": {
+   "objective":"A sign not to feed something",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "34": {
+   "objective":"A shelf with at least 10 levels",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "35": {
+   "objective":"A grocery bag with a baguette sticking out",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "36": {
+   "objective":"A candy apple red KitchenAid mixer",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "37": {
+   "objective":"Snowshoes",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "38": {
+   "objective":"A single nail polish that costs more than $25.00 USD (or equivalent)",
+   "info":"",
+   "points":1,
+   "type":0
+ },
+ "39": {
+   "objective":"A star in Starbucks",
+   "info":"Not the star in the logo",
+   "points":2,
+   "type":0
+ },
+ "40": {
+   "objective":"A bottle of juice or wine with a snowflake on the packaging",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "41": {
+   "objective":"A nose hair trimmer",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "42": {
+   "objective":"Coconut coffee creamer",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "43": {
+   "objective":"A \"Private Road\" sign",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "44": {
+   "objective":"Someone in a tracksuit",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "45": {
+   "objective":"A house made of bricks",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "46": {
+   "objective":"A magnet from a different country than the one you live in",
+   "info":"A magnet that is made in China doesn't count; must say the country on the magnet",
+   "points":2,
+   "type":0
+ },
+ "47": {
+   "objective":"Shoes with green soles",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "48": {
+   "objective":"Old style VW bug",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "49": {
+   "objective":"A businessman in a 3 piece suit",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "50": {
+   "objective":"A clawfoot bathtub",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "51": {
+   "objective":"A logo with all 6 colors of the rainbow",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "52": {
+   "objective":"A cookbook with no pictures",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "53": {
+   "objective":"A bike with training wheels",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "54": {
+   "objective":"A car with a racing number painted on it",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "55": {
+   "objective":"A soda fountain that has both lemonade and Hi-C",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "56": {
+   "objective":"A puzzle with over 2000 pieces",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "57": {
+   "objective":"A car with an expired registration sticker",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "58": {
+   "objective":"A sauna",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "59": {
+   "objective":"A clock with a bird on it",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "60": {
+   "objective":"Black mail",
+   "info":"Something that arrives in the mail that is the color black",
+   "points":2,
+   "type":0
+ },
+ "61": {
+   "objective":"A bible or similar religious text (for any religion) not in English or Hebrew or Arabic ",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "62": {
+   "objective":"A roman candle",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "63": {
+   "objective":"A car (not truck) with a donut spare on the back.",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "64": {
+   "objective":"A heart etched in a tree",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "65": {
+   "objective":"At least three people wearing plaid shirts in one photo",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "66": {
+   "objective":"A musical instrument at a garage sale",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "67": {
+   "objective":"A roller coaster cart with someone holding their hands up",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "68": {
+   "objective":"Four wild snails in one photo",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "69": {
+   "objective":"An expired library card",
+   "info":"Block out any personal information that someone may not want on the internet before submitting",
+   "points":2,
+   "type":0
+ },
+ "70": {
+   "objective":"A world map placemat",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "71": {
+   "objective":"Painters tape on something that has been painted but has yet to have the tape pulled off",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "72": {
+   "objective":"A fireworks explosion with at least 3 fireworks colors in the picture",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "73": {
+   "objective":"A gemstone in a glass case",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "74": {
+   "objective":"A bird with at least 3 colors",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "75": {
+   "objective":"A photo of a lake or river acting as a mirror",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "76": {
+   "objective":"A 3-pronged candelabra on a table",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "77": {
+   "objective":"An Apple brand sticker with the rainbow apple",
+   "info":"Apple is referring to the technology company in this instance",
+   "points":2,
+   "type":0
+ },
+ "78": {
+   "objective":"A red moped",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "79": {
+   "objective":"A trapper keeper binder with a velcro closure",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "80": {
+   "objective":"First place ribbon that isn't blue",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "81": {
+   "objective":"A bucket made out of wood",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "82": {
+   "objective":"Someone using chopsticks to hold up his or her hair",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "83": {
+   "objective":"An anvil",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "84": {
+   "objective":"A soft serve retailer with a non-dairy option",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "85": {
+   "objective":"A dangling earring at least 5\" in length",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "86": {
+   "objective":"A quinceanera greeting card",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "87": {
+   "objective":"A price with 3 or more sequential digits, like $1.23",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "88": {
+   "objective":"A caduceus",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "89": {
+   "objective":"Someone wearing shoes that are different colors",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "90": {
+   "objective":"Aqua-Man shirt",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "91": {
+   "objective":"A device with 3 or more different warning stickers on it",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "92": {
+   "objective":"A real live swan",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "93": {
+   "objective":"Flip flops being advertised as thongs",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "94": {
+   "objective":"A truck with the word \"dump\" on it",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "95": {
+   "objective":"A neon sign with a heart",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "96": {
+   "objective":"A place that does indoor skydiving",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "97": {
+   "objective":"Graffiti consisting of real words containing a spelling error",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "98": {
+   "objective":"Someone literally laying pipe",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "99": {
+   "objective":"A yardstick advertising a hardware store or lumber yard",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "100": {
+   "objective":"A rambutan",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "101": {
+   "objective":"A computer running or an original disk containing Windows 93",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "102": {
+   "objective":"Triboluminescence",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "103": {
+   "objective":"Two people taking photos of each other",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "104": {
+   "objective":"Two or more butterflies in the same picture",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "105": {
+   "objective":"A picture with a clear line of symmetry",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "106": {
+   "objective":"Someone welding",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "107": {
+   "objective":"A bagpipe",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "108": {
+   "objective":"A monarch butterfly",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "109": {
+   "objective":"People having a picnic on a blanket",
+   "info":"",
+   "points":2,
+   "type":0
+ },
+ "110": {
+   "objective":"Four or more cars of the same color parked next to each other in a lot",
+   "info":"Cannot be silver",
+   "points":3,
+   "type":0
+ },
+ "111": {
+   "objective":"Something missing its nose",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "112": {
+   "objective":"An \"Enter at Your Own Risk\" sign",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "113": {
+   "objective":"Someone wearing a horse mask",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "114": {
+   "objective":"A monster truck",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "115": {
+   "objective":"An itsy bitsy teeny weeny yellow polka dot bikini",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "116": {
+   "objective":"A dancing solar-power motion toy in a vehicle",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "117": {
+   "objective":"A glow-in-the-dark mustache",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "118": {
+   "objective":"A stranger in the air after jumping",
+   "info":"You can not make them or encourage them to jump in any way.",
+   "points":3,
+   "type":0
+ },
+ "119": {
+   "objective":"A Kwanzaa kinara",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "120": {
+   "objective":"A lofted bed",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "121": {
+   "objective":"Someone wearing crocs and socks in public",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "122": {
+   "objective":"A wicker bassinet",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "123": {
+   "objective":"A pair of sneakers costing more than $400",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "124": {
+   "objective":"An informational plaque describing an event before the year 1800 ",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "125": {
+   "objective":"An \"End of the Line\" sign",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "126": {
+   "objective":"A haunted house",
+   "info":"If there is no sign/map to indicate provide lore (website sources accepted)",
+   "points":3,
+   "type":0
+ },
+ "127": {
+   "objective":"A street busker playing a ukelele or a tuba",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "128": {
+   "objective":"Skeleton Family stickers on the back of a minivan",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "129": {
+   "objective":"A poisonous animal that could kill a human",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "130": {
+   "objective":"A house with 2 turrets",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "131": {
+   "objective":"A wingback chair at a garage sale",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "132": {
+   "objective":"An articulated bus with an accordion-like middle section.",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "133": {
+   "objective":"The word \"almost\" on a billboard",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "134": {
+   "objective":"Something that fits perfectly in something else that was not meant to fit in that other thing",
+   "info":"You are allowed to bring the two objects together to demonstrate that they fit perfectly.",
+   "points":3,
+   "type":0
+ },
+ "135": {
+   "objective":"A sign that rhymes",
+   "info":"E.g., \"Prime Thyme\"",
+   "points":3,
+   "type":0
+ },
+ "136": {
+   "objective":"Something made with jackfruit",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "137": {
+   "objective":"A painting with three pigs",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "138": {
+   "objective":"Someone in a dirndl",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "139": {
+   "objective":"Something sharp advertised as \"cutting edge\"",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "140": {
+   "objective":"A doorbell that is an actual bell",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "141": {
+   "objective":"A decoder ring",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "142": {
+   "objective":"A replica weapon from a videogame that isn't Star Wars related",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "143": {
+   "objective":"A machine driven assembly line where things are made",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "144": {
+   "objective":"A freeway exit name beginning with the letter Q",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "145": {
+   "objective":"A carpet with a dragon on it",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "146": {
+   "objective":"A fountain with four or more tiers",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "147": {
+   "objective":"A lime-green hard hat.",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "148": {
+   "objective":"A barn swallow and a barn in the same photo",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "149": {
+   "objective":"Painting of a poodle",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "150": {
+   "objective":"A statue or sculpture over a freeway",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "151": {
+   "objective":"A bird and a plane captured in a single picture",
+   "info":"It's a bird! It's a plane!",
+   "points":3,
+   "type":0
+ },
+ "152": {
+   "objective":"Donald Trump and Hillary Clinton T-shirts or bumper stickers in same photo",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "153": {
+   "objective":"A natural arch",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "154": {
+   "objective":"Two ducks and one goose all captured in a single picture",
+   "info":"Duck, duck, goose.",
+   "points":3,
+   "type":0
+ },
+ "155": {
+   "objective":"An outrigger canoe",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "156": {
+   "objective":"A fortune cookie containing the word \"happy\"",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "157": {
+   "objective":"A sign containing the word \"y'all\"",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "158": {
+   "objective":"A boat in a dry dock",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "159": {
+   "objective":"A cow with a spot that looks like the letter X",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "160": {
+   "objective":"Something that claims to be a \"wonder of the world\"",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "161": {
+   "objective":"A semi-truck being towed",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "162": {
+   "objective":"Someone walking a dog that is bigger than they are",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "163": {
+   "objective":"A four foot or longer submarine sandwich",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "164": {
+   "objective":"An NFPA 704 panel where the numbers total at least 7",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "165": {
+   "objective":"A yellow brick road",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "166": {
+   "objective":"An ear trumpet",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "167": {
+   "objective":"A chocolate fountain in use",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "168": {
+   "objective":"Someone inadvertently dressed like a fictional character",
+   "info":"E.g. red white striped shirt, red beanie glasses = Waldo",
+   "points":3,
+   "type":0
+ },
+ "169": {
+   "objective":"A stagecoach",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "170": {
+   "objective":"Tea named after an Aladdin character other than Jasmine",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "171": {
+   "objective":"A motorcycle with a sidecar",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "172": {
+   "objective":"A dog peeing on a fire hydrant",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "173": {
+   "objective":"A 55 gallon/200 liter drum with a biohazard sign on it",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "174": {
+   "objective":"Someone parachuting from the sky",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "175": {
+   "objective":"A keyboard with an English layout other than QWERTY",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "176": {
+   "objective":"Someone wearing a speedo with a country's flag on it",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "177": {
+   "objective":"A block of ice larger than 1x1'",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "178": {
+   "objective":"Fireworks \"cubes\" in the sky",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "179": {
+   "objective":"A painting over 200 years old",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "180": {
+   "objective":"A globe with the USSR labeled",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "181": {
+   "objective":"A bottle of elderflower cordial",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "182": {
+   "objective":"A tow truck towing a tow truck",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "183": {
+   "objective":"Eyeglasses with at least 20 rhinestones.",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "184": {
+   "objective":"An old time mining cart, or hydraulic mining nozzle, etc.",
+   "info":"",
+   "points":3,
+   "type":0
+ },
+ "185": {
+   "objective":"A trophy for a place worse than 5th",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "186": {
+   "objective":"Two superstitions in one photo",
+   "info":"For example a black cat and someone under a ladder",
+   "points":4,
+   "type":0
+ },
+ "187": {
+   "objective":"Someone coming down a fire pole",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "188": {
+   "objective":"A statue of an insect or an arachnid",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "189": {
+   "objective":"A water buffalo",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "190": {
+   "objective":"A boat going through a canal lock",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "191": {
+   "objective":"A door opened by turning a large torus shaped latch similar to a port door on a ship in a movie",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "192": {
+   "objective":"Water flowing over a dam",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "193": {
+   "objective":"Ten thousand or more people in one photo",
+   "info":"No pictures of buildings etc. people must be visible",
+   "points":4,
+   "type":0
+ },
+ "194": {
+   "objective":"A live raccoon and a trash can in one picture",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "195": {
+   "objective":"A horse with exactly three white socks",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "196": {
+   "objective":"Hippo water roller",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "197": {
+   "objective":"A Google \"Street View\" vehicle",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "198": {
+   "objective":"A circular door",
+   "info":"Like Bilbo's front door",
+   "points":4,
+   "type":0
+ },
+ "199": {
+   "objective":"A coracle",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "200": {
+   "objective":"An old style manual printing press",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "201": {
+   "objective":"A deer, moose, elk, etc. with 6 or more point antlers ",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "202": {
+   "objective":"Basking robins",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "203": {
+   "objective":"Four generations of people of the same gender from the same family",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "204": {
+   "objective":"An illuminated manuscript that was copied by hand",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "205": {
+   "objective":"A brain in a jar",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "206": {
+   "objective":"A Kenyan shilling",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "207": {
+   "objective":"A house made of sticks",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "208": {
+   "objective":"A diamond that is at least 40 carats",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "209": {
+   "objective":"Someone bungee jumping",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "210": {
+   "objective":"A model penguin that is taller than you are",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "211": {
+   "objective":"A house made of straw",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "212": {
+   "objective":"Smoke coming from a volcano",
+   "info":"",
+   "points":4,
+   "type":0
+ },
+ "213": {
+   "objective":"Someone dressed as a Teletubby",
+   "info":"",
+   "points":5,
+   "type":0
+ },
+ "214": {
+   "objective":"A picture of the moon taken through the legs of a cow",
+   "info":"",
+   "points":5,
+   "type":0
+ },
+ "215": {
+   "objective":"A \"no regrets\" tattoo",
+   "info":"",
+   "points":5,
+   "type":0
+ },
+ "216": {
+   "objective":"Actual lightning",
+   "info":"",
+   "points":6,
+   "type":0
+ },
+ "217": {
+   "objective":"A dolphin jumping in the wild",
+   "info":"",
+   "points":7,
+   "type":0
+ },
+ "218": {
+   "objective":"Tattoo of the Star Wars planet Tatooine",
+   "info":"",
+   "points":7,
+   "type":0
+ },
+ "224": {
+   "objective":"Create a motivational poster.",
+   "info":"Photoshop/computer modification is allowed for this item.",
+   "points":1,
+   "type":1
+ },
+ "225": {
+   "objective":"Walk under a ladder.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "226": {
+   "objective":"Sort a bag of multicolored candy into colors. Make a bar graph or pie chart using the candy.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "227": {
+   "objective":"Slide down a tube slide.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "228": {
+   "objective":"Do a chin up.",
+   "info":"Do as many chin ups as you can this number must be at least 1 to receive credit",
+   "points":1,
+   "type":1
+ },
+ "229": {
+   "objective":"Boop the snoot of something indisputably cute.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "230": {
+   "objective":"Stoop on a stoop.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "231": {
+   "objective":"Stick yourself between a rock and a hard place.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "232": {
+   "objective":"Using colored pencils, create a rainbow using only red, blue, and yellow.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "233": {
+   "objective":"Walk (at least ten feet) in a straight line wearing high heeled shoes (at least three inch heel).",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "234": {
+   "objective":"Stand on your head for 10 seconds; ok for partner to spot and help a little.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "235": {
+   "objective":"Play a game of pin the tail on the donkey.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "236": {
+   "objective":"Cartwheel out of a pair of shoes, sandals, or clogs.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "237": {
+   "objective":"Throw a snack around your back and catch it in your mouth.",
+   "info":"Snack in hand > hand around back > snack up other side of body > snack in mouth.",
+   "points":1,
+   "type":1
+ },
+ "238": {
+   "objective":"Create your own mad libs story. Ask your partner for the blank words. Read story out loud. ",
+   "info":"Must be at least five sentences long with at least ten blank words.",
+   "points":1,
+   "type":1
+ },
+ "239": {
+   "objective":"Comb the beach or desert with an actual comb.",
+   "info":"Think \"Space Balls\".",
+   "points":1,
+   "type":1
+ },
+ "240": {
+   "objective":"Roll down a grassy hill.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "241": {
+   "objective":"Make your own loose leaf tea.",
+   "info":"NOTE: Do not poison yourself!",
+   "points":1,
+   "type":1
+ },
+ "242": {
+   "objective":"Make a potato head using a real potato.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "243": {
+   "objective":"Dehydrate a fruit or vegetable.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "244": {
+   "objective":"Drink a shot of pickle juice.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "245": {
+   "objective":"Send someone a postcard with a message of encouragement.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "246": {
+   "objective":"Invent a blended ice or slushie drink; make and drink it.",
+   "info":"",
+   "points":1,
+   "type":1
+ },
+ "247": {
+   "objective":"Take a selfie picture with your teammate while you are both upside down.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "248": {
+   "objective":"Make a corn husk doll.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "249": {
+   "objective":"Cut a tortilla into 16 pieces using exactly 5 cuts.",
+   "info":"A cut must be a straight line. You cannot move the pieces of the tortilla between cuts.",
+   "points":2,
+   "type":1
+ },
+ "250": {
+   "objective":"Cover your teammate in silly string.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "251": {
+   "objective":"Using only your tactile senses identify items from around the house.",
+   "info":"Nose pin and blindfold your partner. Give them random stuff to feel and have them guess what it is",
+   "points":2,
+   "type":1
+ },
+ "252": {
+   "objective":"Cut out paper flowers and make a lei.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "253": {
+   "objective":"Get a stranger to play tic-tac-toe with you.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "254": {
+   "objective":"Take at least 5 pictures in different locations of you holding up a cucumber with your teammate in the picture without them noticing.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "255": {
+   "objective":"Have a limbo competition with your partner and music.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "256": {
+   "objective":"Tie a bow tie.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "257": {
+   "objective":"Learn to spin a pen around your thumb on your weak hand.",
+   "info":"3 successful times in a row constitutes learning.",
+   "points":2,
+   "type":1
+ },
+ "258": {
+   "objective":"Have you and your teammate place your hands in ice water and see who lasts longer.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "259": {
+   "objective":"Find something you wrote over 10 years ago and are willing to share post it.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "260": {
+   "objective":"Climb a tree up at least your height to pick a fruit.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "261": {
+   "objective":"Build a model of your partner with Legos.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "262": {
+   "objective":"Paint your partner's nails using your feet instead of your hands to do the painting.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "263": {
+   "objective":"Carve a Jack-o'-lantern and display it with a candle.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "264": {
+   "objective":"Build a nest with things you find outside.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "265": {
+   "objective":"Eat all of a popsicle that comes on a stick using only licks without any drops falling on the ground, your clothes, or anywhere other than your mouth.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "266": {
+   "objective":"Flip a half-cooked pancake using only a wrist flick and the pan.",
+   "info":"Feel free to include highlights from your failed attempts with your submission.",
+   "points":2,
+   "type":1
+ },
+ "267": {
+   "objective":"Trade recipes with another hunt group. Make their recipe.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "268": {
+   "objective":"Draw or paint something using only your toes well enough that the judges can identify what it is.",
+   "info":"Do not tell us what you have drawn.",
+   "points":2,
+   "type":1
+ },
+ "269": {
+   "objective":"Open a can of spinach by squeezing it like Popeye. You may use a vice or tool.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "270": {
+   "objective":"Play a game of frisbee golf with your partner using tortillas, and using your partners mouth as the goal.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "271": {
+   "objective":"Make a piece of jewelry out of pennies.",
+   "info":"Show yourself wearing it; extra credit selling it for nickels?",
+   "points":2,
+   "type":1
+ },
+ "272": {
+   "objective":"Make a cup phone, try to have a conversation over it. ",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "273": {
+   "objective":"Make a whistle.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "274": {
+   "objective":"Make a crayon rubbing of a manhole cover.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "275": {
+   "objective":"Make a Post-it note pixel picture at least 12x12.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "276": {
+   "objective":"Connect at least 15 bendy straws drink a cup of water through them.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "277": {
+   "objective":"Make a Lincoln Log house with carrots.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "278": {
+   "objective":"Dress like a Super Mario character. Get a picture of yourself or film yourself in a pipe.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "279": {
+   "objective":"Turn a juice into concentrate then turn it back to juice.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "280": {
+   "objective":"Make a cardboard car cutout. \"Drive\" up to a stop sign with your cutout, stop, and drive through.",
+   "info":"This should not involve an acutal car. You should only use your cardboard cutout for this task.",
+   "points":2,
+   "type":1
+ },
+ "281": {
+   "objective":"While balancing a basket full of fruit on your head, walk 10 feet.",
+   "info":"You cannot use hands to keep the basket on your head.",
+   "points":2,
+   "type":1
+ },
+ "282": {
+   "objective":"Climb to the top of a hill that is at least 1000 feet higher than where you started.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "283": {
+   "objective":"Put a photo in a picture frame that is for sale in a store.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "284": {
+   "objective":"Make a dodecahedron out of glue and Q-tips",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "285": {
+   "objective":"Take someone on a tour of a new place and sing \"A Whole New World\" from Aladdin.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "286": {
+   "objective":"Go bowling. Knock over at least 6 pins in a single throw using your weak hand.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "287": {
+   "objective":"Give two dogs a plate of spaghetti. See if Disney magic happens.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "288": {
+   "objective":"Make soymilk from soybeans.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "289": {
+   "objective":"Connect two 9-volt batteries in series and test the current with your tongue.",
+   "info":"Don't short out the batteries.",
+   "points":2,
+   "type":1
+ },
+ "290": {
+   "objective":"Make a popcorn ball with a diameter of at least 12\".",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "291": {
+   "objective":"Get your face painted at a fair.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "292": {
+   "objective":"Pan for gold in a river.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "293": {
+   "objective":"Sew a team flag.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "294": {
+   "objective":"Make a forgery of something collectable, compare it to the real one.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "295": {
+   "objective":"Make a skin cleansing mask using mud and cucumbers apply to your partner's face.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "296": {
+   "objective":"Win a free pinball game.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "297": {
+   "objective":"Make a self-portrait using only vegetables.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "298": {
+   "objective":"Grind up some spices that you harvested yourself. Use them to cook a dish.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "299": {
+   "objective":"Fly a paper airplane at least 40 feet (12.1m) while carrying a flower as payload.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "300": {
+   "objective":"Bounce a tennis ball on the frame of a racket 20+ times.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "301": {
+   "objective":"Tie dye a pair of underwear.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "302": {
+   "objective":"Snap with a spin kick a piece of 1/16\" or thicker plywood that your partner is holding.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "303": {
+   "objective":"Play \"Mary Had a Little Lamb\" on a harmonica.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "304": {
+   "objective":"Make 25 new Cards Against Humanity cards relevant to something in 2016.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "305": {
+   "objective":"Set up a heist and film yourself and/or your partner carrying it out.",
+   "info":"Do not do anything illegal. This can be an entirely fake \"heist\" that you have set up.",
+   "points":2,
+   "type":1
+ },
+ "306": {
+   "objective":"Make a disaster-recovery kit appropriate for your locale; keep it.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "307": {
+   "objective":"Take two pictures of something through a telescope & not through a telescope; compare and contrast.",
+   "info":"",
+   "points":2,
+   "type":1
+ },
+ "308": {
+   "objective":"Stack six whole potatoes on top of each other with no other support.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "309": {
+   "objective":"Re-create American Gothic or Arnolfini Portrait in the style of another recognizable decade.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "310": {
+   "objective":"Make a clay sculpture of a cartoon character that the judges can identify.",
+   "info":"Do not tell us who the character is.",
+   "points":3,
+   "type":1
+ },
+ "311": {
+   "objective":"Crab walk up a flight of stairs feet first.",
+   "info":"A flight of stairs must contain at least 8 steps. The stairs must be of semi-ordinary length and height.",
+   "points":3,
+   "type":1
+ },
+ "312": {
+   "objective":"Press some olive oil.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "313": {
+   "objective":"Make a motor using a magnet wire and a battery. See YouTube for examples.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "314": {
+   "objective":"Slide down a flight of stairs in a box.",
+   "info":"Must have at least 10 stairs",
+   "points":3,
+   "type":1
+ },
+ "315": {
+   "objective":"Bake a potato on a stick over an open fire.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "316": {
+   "objective":"Ride a bicycle backwards.",
+   "info":"Can be sitting backwards and riding the bicycle forward or sitting forward while the bicycle moves back.",
+   "points":3,
+   "type":1
+ },
+ "317": {
+   "objective":"Pretend you are the very hungry caterpillar. Wear a sleeping bag and eat a bunch of fruits. Emerge as a butterfly.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "318": {
+   "objective":"Make a marble run that runs for at least 30 seconds and doesn't use any intentional marble run pieces.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "319": {
+   "objective":"Recreate an SNL sketch.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "320": {
+   "objective":"Set a spoon at the edge of a table with a grape on it. Hit the end of the spoon that is hanging off the table so that the grape travels over your shoulder and have your teammate catch the grape in their mouth.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "321": {
+   "objective":"Cartwheel into a pair of shoes, sandals, or clogs.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "322": {
+   "objective":"Hit a bulls-eye with a slingshot from 15 yards.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "323": {
+   "objective":"Bid at an in-person auction.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "324": {
+   "objective":"Make an archway out of rocks.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "325": {
+   "objective":"Grow and eat a vegetable of your choice this summer.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "326": {
+   "objective":"Collect leaves from 10 different deciduous (hardwood) trees.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "327": {
+   "objective":"Wear clothes that match a background so that you appear camouflaged. ",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "328": {
+   "objective":"Do 20 somersaults in under 30 seconds.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "329": {
+   "objective":"Pretending you just got married, decorate your car with tin cans and washable paint. Drive to the grocery store and buy champagne or sparkling apple juice together.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "330": {
+   "objective":"Film a cooking segment for something of your own creation with 5+ ingredients and then eat the dish you prepared.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "331": {
+   "objective":"Make a giant pez dispenser. Show it in action.",
+   "info":"Put any head on it you like.",
+   "points":3,
+   "type":1
+ },
+ "332": {
+   "objective":"Make something happen with a lemon or potato battery.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "333": {
+   "objective":"As a team solve a Sunday NY Times crossword puzzle using a pen.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "334": {
+   "objective":"Spin around 20 times and then make a 3-point basketball shot all in under 20 seconds.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "335": {
+   "objective":"Bounce a laser off of 6 mirrors with each mirror being at least 10 feet from the previous one.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "336": {
+   "objective":"Take something with more than 20 pieces apart and put it back together without breaking it.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "337": {
+   "objective":"Stack twenty hats on your head.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "338": {
+   "objective":"Thread a normal sized needle by having one person holding the thread blindfolded and the other partner holding the needle.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "339": {
+   "objective":"Make a set of cardboard gears that will spin at 60 rpm.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "340": {
+   "objective":"Make something that keeps time without using a commercial watch or clock.",
+   "info":"It must work for a minute, within 10% accuracy.",
+   "points":3,
+   "type":1
+ },
+ "341": {
+   "objective":"Score an AA in any round of DDR but training.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "342": {
+   "objective":"Carve a potato that looks like a celebrity well enough that the judges can guess who it is.",
+   "info":"Do not tell us who it is.",
+   "points":3,
+   "type":1
+ },
+ "343": {
+   "objective":"Learn at least the chorus of \"Lightning Crashes\" by Live on the guitar. Have your partner sing the chorus section as you play.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "344": {
+   "objective":"Walk a log blindfolded.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "345": {
+   "objective":"Host a trivia night, ask a question related to birds, film this question being asked.",
+   "info":"Also post the rest of the questions.",
+   "points":3,
+   "type":1
+ },
+ "346": {
+   "objective":"Toss something into a body of water and create a splash that reaches at least 15 feet high.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "347": {
+   "objective":"Make a grappling hook. Use it to climb up something.",
+   "info":"Don't do anything dangerous.",
+   "points":3,
+   "type":1
+ },
+ "348": {
+   "objective":"Draw your partner's picture on a grain of rice.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "349": {
+   "objective":"Make stilts and walk up or down a hill on them.",
+   "info":"Walk at least 5 meters.",
+   "points":3,
+   "type":1
+ },
+ "350": {
+   "objective":"Salt a fresh wound.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "351": {
+   "objective":"Make a pair of pants out of any material and wear it in public.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "352": {
+   "objective":"Forge a ring.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "353": {
+   "objective":"Channel your inner Stephen Curry: make a 3-point shot from 30 feet or more.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "354": {
+   "objective":"Fly a kite while standing on a skateboard, having it pull you along at least 20 feet.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "355": {
+   "objective":"Make and paint a wooden duck.",
+   "info":"",
+   "points":3,
+   "type":1
+ },
+ "356": {
+   "objective":"Choreograph a dance routine to the chorus of \"I Want It That Way\" by The Backstreet Boys and perform it with your partner while singing the lyrics.",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "357": {
+   "objective":"Bounce a ball off of 5 different surfaces and then catch it without moving your feet.",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "358": {
+   "objective":"Get a butterfly to land on you.",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "359": {
+   "objective":"With another team tie the legs of all four team members together forming a square. Run 20 meters within 45 seconds. If you don't know another team, get someone new to join this scavenger hunt.",
+   "info":"Both teams get points. Make sure to let us know the username of someone on the other team to award them points.",
+   "points":4,
+   "type":1
+ },
+ "360": {
+   "objective":"Make a short using stop motion.",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "361": {
+   "objective":"Make beer (can be root beer, birch, ginger, sarsaparilla).",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "362": {
+   "objective":"Make a wire sculpture that looks like different things from different angles.",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "363": {
+   "objective":"Table tennis rally with 6 consecutive shots behind the back.",
+   "info":"",
+   "points":4,
+   "type":1
+ },
+ "364": {
+   "objective":"Make a video over 5 minutes telling a story; publish on YouTube; get over 1,000 views.",
+   "info":"",
+   "points":5,
+   "type":1
+ },
+ "365": {
+   "objective":"Dress up as a tree and get a bird to land on you.",
+   "info":"",
+   "points":6,
+   "type":1
+ }
+}

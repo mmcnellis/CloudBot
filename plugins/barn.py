@@ -10,22 +10,25 @@ lurl = "http://barnivore.com/liquor.json"
 
 def beer_update():
     response = urllib.request.urlopen(burl)
-    data = json.loads(response.read())
-    with open('barnbeer.txt', 'w') as outfile:
+    str_response = response.readall().decode('utf-8')
+    data = json.loads(str_response)
+    with open('../data/barnbeer.txt', 'w') as outfile:
         json.dump(data, outfile)
     return true
 
 def wine_update():
     response = urllib.request.urlopen(wurl)
-    data = json.loads(response.read())
-    with open('barnwine.txt', 'w') as outfile:
+    str_response = response.readall().decode('utf-8')
+    data = json.loads(str_response)
+    with open('../data/barnwine.txt', 'w') as outfile:
         json.dump(data, outfile)
     return true
 
 def liquor_update():
     response = urllib.request.urlopen(lurl)
-    data = json.loads(response.read())
-    with open('barnliquor.txt', 'w') as outfile:
+    str_response = response.readall().decode('utf-8')
+    data = json.loads(str_response)
+    with open('../data/barnliquor.txt', 'w') as outfile:
         json.dump(data, outfile)
     return true
 
